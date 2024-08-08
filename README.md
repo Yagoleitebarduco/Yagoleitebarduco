@@ -6,4 +6,4 @@
 <br>
 
 ## Status
-[![Blog]( https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)](https://github.com/Yagoleitebarduco)
+[![Blog]( https://github-readme-stats.vercel.app/api/top-langs/?username={Yagoleitebarduco}&theme=blue-green)](https://github.com/Yagoleitebarduco)
