@@ -16,5 +16,4 @@
 [![Blog](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]()
 
-## Elden Ring
 ![elden-ring-shadow-of-the-erdtree-moewalls-com](https://github.com/user-attachments/assets/98d8e071-0848-48eb-8991-8f5788d87fd3)
