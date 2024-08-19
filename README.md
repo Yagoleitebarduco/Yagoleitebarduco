@@ -4,6 +4,8 @@
 [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Blog](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Yagoleitebarduco/CSharp_Projetos.git)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&layout=compact)
+
 ## Aplicativos 
 [![Blog](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
@@ -16,4 +18,4 @@
 [![Blog](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]()
 
-![elden-ring-shadow-of-the-erdtree-moewalls-com](https://github.com/user-attachments/assets/98d8e071-0848-48eb-8991-8f5788d87fd3)
+<!--![elden-ring-shadow-of-the-erdtree-moewalls-com](https://github.com/user-attachments/assets/98d8e071-0848-48eb-8991-8f5788d87fd3)-->
