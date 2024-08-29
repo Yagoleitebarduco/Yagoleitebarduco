@@ -19,7 +19,7 @@
 
 ## Projetos:
 #### Estetica-TI: 
-[![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/sites/esteticati/deploys)
+[![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://esteticati.netlify.app/)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&layout=compact&theme=dark) 
