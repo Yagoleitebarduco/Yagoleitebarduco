@@ -13,13 +13,18 @@
 
 [![Blog](https://img.shields.io/badge/MySQL-14213d?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-)]() 
+[![Blog](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&hide_progress=true&theme=dark)
+
+## Projetos:
+#### Estetica-TI: 
+[![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/sites/esteticati/deploys)
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&layout=compact&theme=dark) 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&hide_progress=true&theme=dark)
 
 ## Aplicativos 
 [![Blog](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
