@@ -18,7 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&hide_progress=true&theme=dark)
 
 ## Projetos:
-#### Estetica-TI: 
+#### Estetica e Para Todos: 
 [![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://esteticati.netlify.app/)
 
 <!--
