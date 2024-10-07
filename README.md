@@ -19,7 +19,7 @@
 
 ## Projetos:
 #### Estetica e Para Todos: 
-[![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://esteticaparatodos.netlify.app)
+[![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://https://esteticaparatodos.netlify.app)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&layout=compact&theme=dark) 
