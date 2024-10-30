@@ -28,6 +28,7 @@
 [![Blog](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Yagoleitebarduco/ANDROID_Projetos) 
 
 
+<!--[![Blog](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS_Projetos)
 
 
 <!--
