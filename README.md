@@ -22,13 +22,16 @@
 ### Estetica e Para Todos: 
 [![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://esteticaparatodos.netlify.app)
 
+### Wordpress
+[![Blog](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS_Projetos)
+
 ## IDE: 
 [![Blog](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Yagoleitebarduco/ANDROID_Projetos) 
 
 
-<!--[![Blog](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS_Projetos)
+
 
 
 <!--
