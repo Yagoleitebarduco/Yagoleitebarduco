@@ -22,8 +22,8 @@
 ### Estetica e Para Todos: 
 [![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://esteticaparatodos.netlify.app)
 
-### Wordpress
-[![Blog](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS_Projetos)
+<!--### Wordpress
+[![Blog](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS_Projetos)-->
 
 ## IDE: 
 [![Blog](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
