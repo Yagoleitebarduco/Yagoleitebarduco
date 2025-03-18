@@ -3,8 +3,8 @@
 -->
 
 ## LINGUAGENS: 
-[![Blog](https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS_Projetos)
-[![Blog](https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS_Projetos)
+[![Blog](https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS)
+[![Blog](https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 
 [![Blog](https://img.shields.io/badge/CSharp-1a759f?style=for-the-badge&logo=sharp&logoColor=white)](https://github.com/Yagoleitebarduco/CSharp_Projetos.git)
