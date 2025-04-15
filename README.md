@@ -6,7 +6,6 @@
 [![Blog](https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS)
 [![Blog](https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS)
 [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![Blog](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Yagoleitebarduco/React)
 
 [![Blog](https://img.shields.io/badge/CSharp-1a759f?style=for-the-badge&logo=sharp&logoColor=white)](https://github.com/Yagoleitebarduco/CSharp_Projetos.git)
 [![Blog](https://img.shields.io/badge/MySQL-14213d?style=for-the-badge&logo=mysql&logoColor=white)]()
@@ -18,6 +17,7 @@
 
 ## FRAMEWORK:
 [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Yagoleitebarduco/React)
 
 ## PROJETOS:
 ### Estetica e Para Todos: 
