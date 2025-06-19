@@ -1,3 +1,7 @@
+## Contao
+[![Blog](https://img.shields.io/badge/Gamil-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](yago.g4c@gmail.com)
+[![Blog](https://img.shields.io/badge/Whastsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513997465192)
+
 ## Web
 [![Blog](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS-JS)
 [![Blog](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS-JS)
@@ -16,4 +20,4 @@
 ## IDE
 [![Blog](https://img.shields.io/badge/Visual_Studio-BD8EF4.svg?style=for-the-badge&logo=&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Visual_Studio_Code-22ABF1.svg?style=for-the-badge&logo=&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=&logoColor=white)]()
