@@ -11,7 +11,7 @@
 [![Blog](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://github.com/Yagoleitebarduco/React.js)
 [![Blog](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&layout=compact&theme=dark)
 
 ## Projetos
 ### Estetica Para Todos
