@@ -14,8 +14,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&layout=compact&theme=dark)
 
 ## Projetos
-[![Blog](https://img.shields.io/badge/Estetica_Para_Todos-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=black)](esteticaparatodos.netlify.app) 
-[![Blog](https://img.shields.io/badge/Ecos_Arraia-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=black)](ecosarraia2025.netlify.app)
+[![Blog](https://img.shields.io/badge/Estetica_Para_Todos-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=black)](https://esteticaparatodos.netlify.app/) 
+[![Blog](https://img.shields.io/badge/Ecos_Arraia-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=black)](https://ecosarraia2025.netlify.app/)
 [![Blog](https://img.shields.io/badge/Vertex_One-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=black)](https://vertexone.netlify.app/)
 
 ## IDE
