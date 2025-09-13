@@ -16,7 +16,7 @@
 ## Projetos
 [![Blog](https://img.shields.io/badge/Estetica_Para_Todos-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=black)](esteticaparatodos.netlify.app) 
 [![Blog](https://img.shields.io/badge/Ecos_Arraia-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=black)](ecosarraia2025.netlify.app)
-[![Blog](https://img.shields.io/badge/Vertex_One-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=black)](vertexone.netlify.app)
+[![Blog](https://img.shields.io/badge/Vertex_One-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=black)](https://vertexone.netlify.app/)
 
 ## IDE
 [![Blog](https://img.shields.io/badge/Visual_Studio-BD8EF4.svg?style=for-the-badge&logo=&logoColor=white)]()
