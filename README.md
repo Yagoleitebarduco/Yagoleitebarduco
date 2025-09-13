@@ -1,5 +1,5 @@
 ## Contato
-[![Blog](https://img.shields.io/badge/Gamil-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)]( mailto:yaobarduco.dev@gmail.com)
+[![Blog](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)]( mailto:yaobarduco.dev@gmail.com)
 [![Blog](https://img.shields.io/badge/Whastsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513997465192)
 
 ## Web
