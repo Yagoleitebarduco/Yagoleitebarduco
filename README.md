@@ -1,6 +1,6 @@
 ## Contato
 [![Blog](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)]( mailto:yaobarduco.dev@gmail.com)
-[![Blog](https://img.shields.io/badge/Whastsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513997465192)
+[![Blog](https://img.shields.io/badge/Whastsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/5513997465192](https://wa.me/5513997465192?text=Ol%C3%A1!%20Agrade%C3%A7o%20por%20entrar%20em%20contato.%0A%0ASou%20Yago%2C%20desenvolvedor%20Full-Stack%20especializado%20em%20Laravel%20(PHP)%20e%20React.%0A%0APara%20agilizar%20nosso%20atendimento%2C%20por%20favor%2C%20me%20diga%3A%0A%0A1.%20Qual%20%C3%A9%20o%20projeto%20ou%20necessidade%20que%20voc%C3%AA%20busca%3F%0A2.%20Onde%20voc%C3%AA%20viu%20o%20meu%20contato%20(LinkedIn%2C%20Portf%C3%B3lio%2C%20etc.)%3F))
 
 ## Web
 [![Blog](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/Yagoleitebarduco/HTML-CSS-JS)
