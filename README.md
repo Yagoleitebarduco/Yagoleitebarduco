@@ -10,6 +10,7 @@
 [![Blog](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/Yagoleitebarduco/Bootstrap)
 [![Blog](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://github.com/Yagoleitebarduco/React.js)
 [![Blog](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Laravel-F05340.svg?style=for-the-badge&logo=Laravel&logoColor=white)]()
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagoleitebarduco&layout=compact&theme=dark) -->
 
